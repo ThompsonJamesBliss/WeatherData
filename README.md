@@ -1,5 +1,7 @@
 # Weather Data
-Contains weather data for NFL games 2000 - 2019.
+This Github repository contains weather data for NFL games 2000 - 2019. 
+
+## File Descriptions
 
  `stadium_coordinates.csv`
 
