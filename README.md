@@ -25,7 +25,7 @@ This Github repository contains weather data for NFL games 2000 - 2020.
 
 
 
-`games_weather.csv`
+`games_weather.csv` / `games_weather_2020.csv`
 
 - `game_id`: id corresponding to game.
 - `Source`: source of weather data (meteostat or Wunderground).
