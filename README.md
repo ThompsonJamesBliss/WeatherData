@@ -36,5 +36,5 @@ This Github repository contains weather data for NFL games 2000 - 2020.
 - `Humidity`: humidity in percentage.
 - `Precipitation`: precipitation in inches.
 - `WindSpeed`: speed of wind in miles per hour.
-- `WindDirection`: azimuth angle of the direction of wind (0 is North, 90 is East, 180 is South, 270 is West).
+- `WindDirection`: azimuth angle of the direction of wind (0 is North, 90 is East, 180 is South, 270 is West). See https://en.wikipedia.org/wiki/Wind_direction for more context.
 - `Pressure`: pressure in inches of mercury.
