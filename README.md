@@ -25,11 +25,11 @@ This Github repository contains weather data for NFL games 2000 - 2020.
 
 
 
-`games_weather.csv` / `games_weather_2020.csv`
+`games_weather.csv`
 
 - `game_id`: id corresponding to game.
 - `Source`: source of weather data (meteostat or Wunderground).
-- `DistanceToStation`: distance from stadium to station in miles.
+- `DistanceToStation`: distance from stadium to station in miles. (2020 was gathered slightly differently than other seasons so this value is missing).
 - `TimeMeasure`: date and time weather was measured in local timezone.
 - `Temperature`: temperature in Fahrenheight.
 - `DewPoint`: dew point in Fahrenheight.
