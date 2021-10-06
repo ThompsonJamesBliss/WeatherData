@@ -1,5 +1,5 @@
 # Weather Data
-This Github repository contains weather data for NFL games 2000 - 2020. 
+This Github repository contains weather data for NFL games 2000 - 2020 from MeteoStat. 
 
 ## File Descriptions
 
